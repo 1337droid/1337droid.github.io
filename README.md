@@ -21,3 +21,14 @@ Keep private client work, names, repository identifiers, credentials, correspond
 | This personal blog | Sponsor | Consulted as needed | Owns building, maintenance, writing, and routine publication |
 
 Repository access, hosting access, and deployment success are separate facts. Verify each relevant step.
+
+## Writing style
+
+- BLUF: result or blocker first. Evidence next. Next action only when useful.
+- Write like a self-taught programmer leaving useful code comments.
+- Short fragments welcome. Plain technical language. No speeches, metaphors, branding, motivational prose, or filler.
+- Blog entries look like commented code: `//` lines or `/* ... */` blocks. Every visible line of writing should belong to that treatment, including headings and metadata.
+- Typically 4–8 short lines per entry. Add detail only when needed to reproduce or understand the result.
+- Preserve uncertainty: checked, inferred, pending. Do not claim an untested layout works.
+- Keep entries as semantic HTML with visible comment text; comments must remain readable in the rendered page. No JavaScript required.
+- Preserve the existing #001, #002, and future entry links. Keep revision notes for substantive corrections.
